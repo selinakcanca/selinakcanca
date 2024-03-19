@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL and Python**
 
-- ⚡ Fun fact **I am food lover and Jordan collector.**
+- ⚡ Fun fact **I am food lover and sneakerhead.**
 
 - I like art, fashion, hand crafts and design.
 
