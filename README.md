@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Selin</h1>
 <h3 align="center">A newbie to this world! 🦦🍀🌎</h3>
 
+- 📚 Studied media and communication
+  
 - 🌱 I’m currently learning **SQL and Python**
 
 - ⚡ Fun fact **I am food lover and sneakerhead.**
