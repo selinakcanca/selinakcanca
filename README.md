@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 👩🏻‍💻📈 I’m business analyst student.<br>- 📚 Studied media and communication. <br>- 🌱 I’m currently learning SQL and Python<br>- ⏳ In my free time I create ceramic, travel, cook and draw.<br>- 🪩 Fun fact: I am food lover and sneakerhead.</p> 
+<p align="left">- 👩🏻‍💻📈 I’m business analyst traniee.<br>- 📚 Studied media and communication. <br>- 🌱 I’m currently learning SQL and Python<br>- ⏳ In my free time I create ceramic, travel, cook and draw.<br>- 🪩 Fun fact: I am food lover and sneakerhead.</p> 
 
 ###
 
